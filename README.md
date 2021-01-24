@@ -1,5 +1,5 @@
 # Predicting mpg
-# # A notebook on prediction mpg (miles per galon)  taking into account the characteristics of the car
+A notebook on prediction mpg (miles per galon)  taking into account the characteristics of the car
 
 Using the dataset "Car performance data" we will try to create a model to predict car consumption efficiency (MPG or miles per gallon)
 
